@@ -1,0 +1,75 @@
+﻿<Window x:Class="Programmer_Calc.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Programmer_Calc"
+        mc:Ignorable="d"
+        Title="Marvellous Calc" Height="535" Width="346" >
+
+
+
+        <Viewbox >
+            <Grid >
+
+                <TextBox Name="textbox1" IsEnabled="False" HorizontalAlignment="Left" Height="41" TextWrapping="Wrap"  VerticalAlignment="Top" Width="329" RenderTransformOrigin="0.408,-4.412" Margin="1,67,0,0" FontFamily="Segoe UI Semibold" FontSize="28" FontStyle="Italic" TextAlignment="Right">
+                    0
+                </TextBox>
+                <Border BorderBrush="Black" BorderThickness="2" HorizontalAlignment="Left" Height="41" Margin="1,67,0,0" VerticalAlignment="Top" Width="329"/>
+
+                <Grid>
+                    <Button Uid="=" Name="equal" Content="=" HorizontalAlignment="Left" Margin="275,458,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+                    <Button Uid="." Name="dot" Content="." HorizontalAlignment="Left" Margin="220,458,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+                    <Button Uid="0" Name="zero" Content="0" FontSize="20" FontFamily="Segoe UI Black" HorizontalAlignment="Left" Margin="165,458,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+                    <Button Uid="+/-" Name="plus_or_minus" Content="+/-" HorizontalAlignment="Left" Margin="110,458,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+                    <Button Uid="F" Name="F" Content="F" HorizontalAlignment="Left" Margin="55,420,0,0" VerticalAlignment="Top" Width="55" Height="76" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+                    <Button Uid="E" Name="E" Content="E" HorizontalAlignment="Left" Margin="0,420,0,0" VerticalAlignment="Top" Width="55" Height="76" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+
+                    <Button Uid="1" Name="one" Content="1" HorizontalAlignment="Left" Margin="110,420,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601" FontFamily="Segoe UI Black" FontSize="20"/>
+                    <Button Uid="2" Name="two" Content="2" HorizontalAlignment="Left" Margin="165,420,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601" FontSize="20" FontFamily="Segoe UI Black"  />
+                    <Button Uid="3" Name="three" Content="3" HorizontalAlignment="Left" Margin="220,420,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601" FontSize="20" FontFamily="Segoe UI Black "/>
+                    <Button Uid="+" Name="plus" Content="+" HorizontalAlignment="Left" Margin="275,420,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"  />
+
+                    <Button Uid="C" Name="C" Content="C"  HorizontalAlignment="Left" Margin="0,382,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+                    <Button Uid="D" Name="D" Content="D" HorizontalAlignment="Left" Margin="55,382,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+                    <Button Uid="4" Name="four" Content="4" FontSize="20" FontFamily="Segoe UI Black" HorizontalAlignment="Left" Margin="110,382,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+                    <Button Uid="5" Name="five" Content="5" FontSize="20" FontFamily="Segoe UI Black"  HorizontalAlignment="Left" Margin="165,382,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+                    <Button Uid="6" Name="six" Content="6" FontSize="20" FontFamily="Segoe UI Black" HorizontalAlignment="Left" Margin="220,382,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+                    <Button Uid="-" Name="minus" Content="-" HorizontalAlignment="Left" Margin="275,382,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+
+                    <Button Uid="A" Name="A" Content="A" HorizontalAlignment="Left" Margin="0,344,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+                    <Button Uid="B" Name="B" Content="B" HorizontalAlignment="Left" Margin="55,344,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+                    <Button Uid="7" Name="seven" Content="7" FontSize="20" FontFamily="Segoe UI Black" HorizontalAlignment="Left" Margin="110,344,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+                    <Button Uid="8" Name="eight" Content="8" FontSize="20" FontFamily="Segoe UI Black" HorizontalAlignment="Left" Margin="165,344,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+                    <Button Uid="9" Name="nine" Content="9" FontSize="20" FontFamily="Segoe UI Black" HorizontalAlignment="Left" Margin="220,344,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+                    <Button Uid="*" Name="mult" Content="*" HorizontalAlignment="Left" Margin="275,344,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+
+                    <Button Uid="^" Name="square"  Content="^" HorizontalAlignment="Left" Margin="0,306,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601">
+
+                    </Button>
+                    <Button Uid="%" Name="mod"  Content="%" HorizontalAlignment="Left" Margin="55,306,0,0" VerticalAlignment="Top" Width="110" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601">
+
+                    </Button>
+                    <Button Uid="Clr" Name="clr" Content="Clr" HorizontalAlignment="Left" Margin="165,306,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+                    <Button Uid="/" Name="div" Content="/" HorizontalAlignment="Left" Margin="220,306,0,0" VerticalAlignment="Top" Width="110" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+
+                    <Button Uid="Lsh" Name="Lsh" Content="Lsh" HorizontalAlignment="Left" Margin="0,268,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+                    <Button Uid="Rsh" Name="Rsh" Content="Rsh" HorizontalAlignment="Left" Margin="55,268,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+                    <Button Uid="OR" Name="or" Content="OR" HorizontalAlignment="Left" Margin="110,268,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+                    <Button Uid="XOR" Name="xor" Content="XOR" HorizontalAlignment="Left" Margin="165,268,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+                    <Button Uid="NOT" Name="not" Content="NOT" HorizontalAlignment="Left" Margin="220,268,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+                    <Button Uid="AND" Name="and" Content="AND" HorizontalAlignment="Left" Margin="275,268,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="ActionListener" RenderTransformOrigin="1.169,0.601"/>
+
+                    <Button Uid="Binary" Name="binary" Content="Binary" HorizontalAlignment="Left" Margin="0,230,0,0" VerticalAlignment="Top" Width="110" Height="38" Click="Conversion" RenderTransformOrigin="1.169,0.601"/>
+                    <Button Uid="Decimal" Name="dec" Content="Decimal" HorizontalAlignment="Left" Margin="110,230,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="Conversion" RenderTransformOrigin="1.169,0.601"/>
+                    <Button Uid="Octal" Name="octal" Content="Octal" HorizontalAlignment="Left" Margin="165,230,0,0" VerticalAlignment="Top" Width="55" Height="38" Click="Conversion" RenderTransformOrigin="1.169,0.601"/>
+                    <Button Uid="Hexadecimal" Name="hexadecimal" Content="Hexadecimal" HorizontalAlignment="Left" Margin="220,230,0,0" VerticalAlignment="Top" Width="110" Height="38" Click="Conversion" RenderTransformOrigin="1.169,0.601"/>
+                </Grid>
+                <Border BorderBrush="Azure" BorderThickness="2" HorizontalAlignment="Left" Height="496" VerticalAlignment="Top" Width="330">
+
+                </Border>
+
+            </Grid>
+        </Viewbox>
+
+</Window>

@@ -1,0 +1,60 @@
+F:\VISUAL STUDIO PROGRAMS\Programmer Calc\Programmer Calc\bin\Debug\Programmer Calc.exe.config
+F:\VISUAL STUDIO PROGRAMS\Programmer Calc\Programmer Calc\bin\Debug\Programmer Calc.exe
+F:\VISUAL STUDIO PROGRAMS\Programmer Calc\Programmer Calc\bin\Debug\Programmer Calc.pdb
+F:\VISUAL STUDIO PROGRAMS\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc.csprojAssemblyReference.cache
+F:\VISUAL STUDIO PROGRAMS\Programmer Calc\Programmer Calc\obj\Debug\MainWindow.g.cs
+F:\VISUAL STUDIO PROGRAMS\Programmer Calc\Programmer Calc\obj\Debug\App.g.cs
+F:\VISUAL STUDIO PROGRAMS\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc_MarkupCompile.cache
+F:\VISUAL STUDIO PROGRAMS\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc_MarkupCompile.lref
+F:\VISUAL STUDIO PROGRAMS\Programmer Calc\Programmer Calc\obj\Debug\MainWindow.baml
+F:\VISUAL STUDIO PROGRAMS\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc.g.resources
+F:\VISUAL STUDIO PROGRAMS\Programmer Calc\Programmer Calc\obj\Debug\Programmer_Calc.Properties.Resources.resources
+F:\VISUAL STUDIO PROGRAMS\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc.csproj.GenerateResource.cache
+F:\VISUAL STUDIO PROGRAMS\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc.csproj.CoreCompileInputs.cache
+F:\VISUAL STUDIO PROGRAMS\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc.exe
+F:\VISUAL STUDIO PROGRAMS\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc.pdb
+F:\VISUAL_STUDIO_PROGRAMS\Programmer Calc\Programmer Calc\bin\Debug\Programmer Calc.exe.config
+F:\VISUAL_STUDIO_PROGRAMS\Programmer Calc\Programmer Calc\bin\Debug\Programmer Calc.exe
+F:\VISUAL_STUDIO_PROGRAMS\Programmer Calc\Programmer Calc\bin\Debug\Programmer Calc.pdb
+F:\VISUAL_STUDIO_PROGRAMS\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc.csprojAssemblyReference.cache
+F:\VISUAL_STUDIO_PROGRAMS\Programmer Calc\Programmer Calc\obj\Debug\MainWindow.g.cs
+F:\VISUAL_STUDIO_PROGRAMS\Programmer Calc\Programmer Calc\obj\Debug\App.g.cs
+F:\VISUAL_STUDIO_PROGRAMS\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc_MarkupCompile.cache
+F:\VISUAL_STUDIO_PROGRAMS\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc_MarkupCompile.lref
+F:\VISUAL_STUDIO_PROGRAMS\Programmer Calc\Programmer Calc\obj\Debug\MainWindow.baml
+F:\VISUAL_STUDIO_PROGRAMS\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc.g.resources
+F:\VISUAL_STUDIO_PROGRAMS\Programmer Calc\Programmer Calc\obj\Debug\Programmer_Calc.Properties.Resources.resources
+F:\VISUAL_STUDIO_PROGRAMS\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc.csproj.GenerateResource.cache
+F:\VISUAL_STUDIO_PROGRAMS\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc.csproj.CoreCompileInputs.cache
+F:\VISUAL_STUDIO_PROGRAMS\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc.exe
+F:\VISUAL_STUDIO_PROGRAMS\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc.pdb
+C:\Users\Harshal\Desktop\Programmer Calc\Programmer Calc\bin\Debug\Programmer Calc.exe.config
+C:\Users\Harshal\Desktop\Programmer Calc\Programmer Calc\bin\Debug\Programmer Calc.exe
+C:\Users\Harshal\Desktop\Programmer Calc\Programmer Calc\bin\Debug\Programmer Calc.pdb
+C:\Users\Harshal\Desktop\Programmer Calc\Programmer Calc\obj\Debug\MainWindow.g.cs
+C:\Users\Harshal\Desktop\Programmer Calc\Programmer Calc\obj\Debug\App.g.cs
+C:\Users\Harshal\Desktop\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc_MarkupCompile.cache
+C:\Users\Harshal\Desktop\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc_MarkupCompile.lref
+C:\Users\Harshal\Desktop\Programmer Calc\Programmer Calc\obj\Debug\MainWindow.baml
+C:\Users\Harshal\Desktop\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc.g.resources
+C:\Users\Harshal\Desktop\Programmer Calc\Programmer Calc\obj\Debug\Programmer_Calc.Properties.Resources.resources
+C:\Users\Harshal\Desktop\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc.csproj.GenerateResource.cache
+C:\Users\Harshal\Desktop\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc.csproj.CoreCompileInputs.cache
+C:\Users\Harshal\Desktop\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc.exe
+C:\Users\Harshal\Desktop\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc.pdb
+C:\Users\Harshal\Desktop\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc.csprojAssemblyReference.cache
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Programmer Calc\Programmer Calc\bin\Debug\Programmer Calc.exe.config
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Programmer Calc\Programmer Calc\bin\Debug\Programmer Calc.exe
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Programmer Calc\Programmer Calc\bin\Debug\Programmer Calc.pdb
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc.csprojAssemblyReference.cache
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Programmer Calc\Programmer Calc\obj\Debug\MainWindow.g.cs
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Programmer Calc\Programmer Calc\obj\Debug\App.g.cs
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc_MarkupCompile.cache
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc_MarkupCompile.lref
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Programmer Calc\Programmer Calc\obj\Debug\MainWindow.baml
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc.g.resources
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Programmer Calc\Programmer Calc\obj\Debug\Programmer_Calc.Properties.Resources.resources
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc.csproj.GenerateResource.cache
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc.csproj.CoreCompileInputs.cache
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc.exe
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Programmer Calc\Programmer Calc\obj\Debug\Programmer Calc.pdb
